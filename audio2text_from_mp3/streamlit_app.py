@@ -4,8 +4,8 @@ from transformers.pipelines import pipeline
 from datetime import datetime
 
 
-st.title("Audio2Text: MP3 Transcription App")
-st.write("Upload an MP3 file and get the transcription as a downloadable text file.")
+st.title("Audio2Text: Audio Transcription App")
+st.write("Upload an MP3 or M4A file and get the transcription as a downloadable text file.")
 
 
 # File uploader
