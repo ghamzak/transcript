@@ -1,4 +1,4 @@
-# Gen-AI-Mini-Projects
+# Multilingual NLP: Transcription and Translation
 
 ## Setup Notes
 
