@@ -1,0 +1,10 @@
+streamlit
+# PyAudioWPatch
+numpy
+scipy
+PyAudio
+# Python requirements for audio2text_from_mp3 notebook
+transformers
+torch
+# to convert m4a to mp3
+pydub
