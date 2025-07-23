@@ -23,3 +23,24 @@ pip install -r requirements.txt
 ```
 
 This will allow `PyAudio` to build and install successfully on macOS.
+
+
+## Running the Apps
+
+**Note:** When running the Streamlit app for the first time, it may take a while to start because it needs to download about 200MB of data before loading. Please be patient during the initial startup.
+
+### How to Run the Apps
+
+- To run the live transcription app (using your microphone):
+
+  ```sh
+  cd Live_audio2text_app
+  streamlit run app.py
+  ```
+
+- To run the audio-to-text app for MP3/M4A files:
+
+  ```sh
+  cd audio2text_from_mp3
+  streamlit run streamlit_app.py
+  ```
